@@ -1,0 +1,1640 @@
+{
+"students":
+    [
+        {
+            "STUDENTNUMBER": 1532,
+            "STUDENTNAME": "John",
+            "STUDENTSURNAME": "Doe",
+            "DATEOFBIRTH": "2000-01-01T00:00:00.000Z",
+            "STUDENTAGE": 22,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "236-McGill-street-Oliver-road",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp101","gradeNUM": 80},
+                {"moduleName": "comp105","gradeNUM": 83},
+                {"moduleName": "comp105","gradeNUM": 80}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 1646,
+            "STUDENTNAME": "Faith",
+            "STUDENTSURNAME": "Lone",
+            "DATEOFBIRTH": "2000-04-01T00:00:00.000Z",
+            "STUDENTAGE": 22,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "236-McGill-street-Oliver-road",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp101","gradeNUM": 80},
+                {"moduleName": "comp105","gradeNUM": 83},
+                {"moduleName": "comp240","gradeNUM": 81},
+                {"moduleName": "comp110","gradeNUM": 73}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 62994,
+            "STUDENTNAME": "Vera",
+            "STUDENTSURNAME": "Bartlett",
+            "DATEOFBIRTH": "1990-12-03T00:00:00.000Z",
+            "STUDENTAGE": 32,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "4953-Longwood-Meadow",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp190","gradeNUM": 83},
+                {"moduleName": "comp170","gradeNUM": 68},
+                {"moduleName": "comp190","gradeNUM": 79},
+                {"moduleName": "comp170","gradeNUM": 62}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 88689,
+            "STUDENTNAME": "Skyla",
+            "STUDENTSURNAME": "Owen",
+            "DATEOFBIRTH": "1991-01-01T00:00:00.000Z",
+            "STUDENTAGE": 31,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "2794-Bramble-Close",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp200","gradeNUM": 95},
+                {"moduleName": "comp170","gradeNUM": 80},
+                {"moduleName": "comp212","gradeNUM": 80},
+                {"moduleName": "comp210","gradeNUM": 72},
+                {"moduleName": "comp170","gradeNUM": 98}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 6268,
+            "STUDENTNAME": "Marisa",
+            "STUDENTSURNAME": "Lim",
+            "DATEOFBIRTH": "1992-12-03T00:00:00.000Z",
+            "STUDENTAGE": 30,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "9164-Cecil-Spinney",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp110","gradeNUM": 69},
+                {"moduleName": "comp110","gradeNUM": 99},
+                {"moduleName": "comp216","gradeNUM": 58},
+                {"moduleName": "comp233","gradeNUM": 70}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 31724,
+            "STUDENTNAME": "Diogo",
+            "STUDENTSURNAME": "O'Neill",
+            "DATEOFBIRTH": "1992-12-03T00:00:00.000Z",
+            "STUDENTAGE": 30,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "6590-Landseer-Nook",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp101","gradeNUM": 78},
+                {"moduleName": "comp240","gradeNUM": 75},
+                {"moduleName": "comp216","gradeNUM": 76}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 98135,
+            "STUDENTNAME": "Aimie",
+            "STUDENTSURNAME": "Hurst",
+            "DATEOFBIRTH": "1993-12-03T00:00:00.000Z",
+            "STUDENTAGE": 29,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "5659-Rock-Farm",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp201","gradeNUM": 44},
+                {"moduleName": "comp210","gradeNUM": 56},
+                {"moduleName": "comp170","gradeNUM": 59}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 35598,
+            "STUDENTNAME": "Vivian",
+            "STUDENTSURNAME": "Schroeder",
+            "DATEOFBIRTH": "1993-12-03T00:00:00.000Z",
+            "STUDENTAGE": 29,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "268-Franklin-Wynd",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp170","gradeNUM": 89},
+                {"moduleName": "comp150","gradeNUM": 69},
+                {"moduleName": "comp212","gradeNUM": 45},
+                {"moduleName": "comp170","gradeNUM": 94}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 41136,
+            "STUDENTNAME": "Eleni",
+            "STUDENTSURNAME": "Fleming",
+            "DATEOFBIRTH": "1993-12-03T00:00:00.000Z",
+            "STUDENTAGE": 29,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "6758-Lyon-Fairway",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp240","gradeNUM": 55},
+                {"moduleName": "comp110","gradeNUM": 74},
+                {"moduleName": "comp200","gradeNUM": 73},
+                {"moduleName": "comp190","gradeNUM": 75}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 23586,
+            "STUDENTNAME": "Louisa",
+            "STUDENTSURNAME": "Mill",
+            "DATEOFBIRTH": "1993-12-03T00:00:00.000Z",
+            "STUDENTAGE": 29,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "6227-Sherbourne-Ridings",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp212","gradeNUM": 61},
+                {"moduleName": "comp101","gradeNUM": 90},
+                {"moduleName": "comp215","gradeNUM": 98}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 8500,
+            "STUDENTNAME": "Andreea",
+            "STUDENTSURNAME": "Ortiz",
+            "DATEOFBIRTH": "1994-12-03T00:00:00.000Z",
+            "STUDENTAGE": 28,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "6930-Newlands-Willows",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp216","gradeNUM": 67},
+                {"moduleName": "comp200","gradeNUM": 64},
+                {"moduleName": "comp190","gradeNUM": 83},
+                {"moduleName": "comp240","gradeNUM": 89},
+                {"moduleName": "comp103","gradeNUM": 83}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 6525,
+            "STUDENTNAME": "Woodrow",
+            "STUDENTSURNAME": "Garrett",
+            "DATEOFBIRTH": "1995-12-03T00:00:00.000Z",
+            "STUDENTAGE": 27,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "9944-Lady-Laurels",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp240","gradeNUM": 89},
+                {"moduleName": "comp215","gradeNUM": 75},
+                {"moduleName": "comp105","gradeNUM": 46},
+                {"moduleName": "comp101","gradeNUM": 81},
+                {"moduleName": "comp216","gradeNUM": 60}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 52433,
+            "STUDENTNAME": "Kristina",
+            "STUDENTSURNAME": "Goldsmith",
+            "DATEOFBIRTH": "1995-12-03T00:00:00.000Z",
+            "STUDENTAGE": 27,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "4672-Highlands-Bridge",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp210","gradeNUM": 69},
+                {"moduleName": "comp201","gradeNUM": 80},
+                {"moduleName": "comp201","gradeNUM": 86},
+                {"moduleName": "comp216","gradeNUM": 91}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 83904,
+            "STUDENTNAME": "Frances",
+            "STUDENTSURNAME": "Monroe",
+            "DATEOFBIRTH": "1996-12-03T00:00:00.000Z",
+            "STUDENTAGE": 26,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "1915-Providence-Glas",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp200","gradeNUM": 48},
+                {"moduleName": "comp150","gradeNUM": 98},
+                {"moduleName": "comp233","gradeNUM": 56},
+                {"moduleName": "comp105","gradeNUM": 82},
+                {"moduleName": "comp284","gradeNUM": 40}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 59450,
+            "STUDENTNAME": "Dante",
+            "STUDENTSURNAME": "Mcfarlane",
+            "DATEOFBIRTH": "1996-12-03T00:00:00.000Z",
+            "STUDENTAGE": 26,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "7736-Thorn-Glebe",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp150","gradeNUM": 69},
+                {"moduleName": "comp212","gradeNUM": 75},
+                {"moduleName": "comp201","gradeNUM": 57},
+                {"moduleName": "comp284","gradeNUM": 75}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 57472,
+            "STUDENTNAME": "Mack",
+            "STUDENTSURNAME": "Mcconnell",
+            "DATEOFBIRTH": "1997-12-03T00:00:00.000Z",
+            "STUDENTAGE": 25,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "8109-Fitzwilliam-Woods",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp190","gradeNUM": 76},
+                {"moduleName": "comp240","gradeNUM": 61},
+                {"moduleName": "comp105","gradeNUM": 60},
+                {"moduleName": "comp215","gradeNUM": 76},
+                {"moduleName": "comp215","gradeNUM": 95}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 36153,
+            "STUDENTNAME": "Tatiana",
+            "STUDENTSURNAME": "Ramsay",
+            "DATEOFBIRTH": "1998-12-03T00:00:00.000Z",
+            "STUDENTAGE": 24,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "604-Lyon-Buildings",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp105","gradeNUM": 46},
+                {"moduleName": "comp170","gradeNUM": 57},
+                {"moduleName": "comp284","gradeNUM": 46},
+                {"moduleName": "comp210","gradeNUM": 44}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 19940,
+            "STUDENTNAME": "Carla",
+            "STUDENTSURNAME": "Reeve",
+            "DATEOFBIRTH": "1998-12-03T00:00:00.000Z",
+            "STUDENTAGE": 24,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "4333-Albany-Loke",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp190","gradeNUM": 65},
+                {"moduleName": "comp212","gradeNUM": 95},
+                {"moduleName": "comp150","gradeNUM": 66},
+                {"moduleName": "comp212","gradeNUM": 71},
+                {"moduleName": "comp101","gradeNUM": 51}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 81120,
+            "STUDENTNAME": "Reis",
+            "STUDENTSURNAME": "Walters",
+            "DATEOFBIRTH": "1998-12-03T00:00:00.000Z",
+            "STUDENTAGE": 24,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "4479-Hambleton-Cottages",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp233","gradeNUM": 91},
+                {"moduleName": "comp103","gradeNUM": 97},
+                {"moduleName": "comp233","gradeNUM": 67}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 72589,
+            "STUDENTNAME": "Sandra",
+            "STUDENTSURNAME": "Allman",
+            "DATEOFBIRTH": "1999-12-03T00:00:00.000Z",
+            "STUDENTAGE": 23,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "6493-Vincent-Quay",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp170","gradeNUM": 82},
+                {"moduleName": "comp150","gradeNUM": 49},
+                {"moduleName": "comp170","gradeNUM": 64},
+                {"moduleName": "comp110","gradeNUM": 92},
+                {"moduleName": "comp284","gradeNUM": 83}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 14165,
+            "STUDENTNAME": "Dottie",
+            "STUDENTSURNAME": "Rosario",
+            "DATEOFBIRTH": "1999-12-03T00:00:00.000Z",
+            "STUDENTAGE": 23,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "8094-Chesterton-Broadway",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp150","gradeNUM": 46},
+                {"moduleName": "comp200","gradeNUM": 55},
+                {"moduleName": "comp105","gradeNUM": 50},
+                {"moduleName": "comp103","gradeNUM": 97},
+                {"moduleName": "comp105","gradeNUM": 81}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 10532,
+            "STUDENTNAME": "Jordon",
+            "STUDENTSURNAME": "Day",
+            "DATEOFBIRTH": "2000-12-03T00:00:00.000Z",
+            "STUDENTAGE": 22,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "2547-Pendle-Pleasant",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp200","gradeNUM": 96},
+                {"moduleName": "comp284","gradeNUM": 88},
+                {"moduleName": "comp190","gradeNUM": 46}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 86322,
+            "STUDENTNAME": "Jace",
+            "STUDENTSURNAME": "Carpenter",
+            "DATEOFBIRTH": "2001-03-11T00:00:00.000Z",
+            "STUDENTAGE": 21,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "5859-Bromley-Bank",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp216","gradeNUM": 42},
+                {"moduleName": "comp216","gradeNUM": 76},
+                {"moduleName": "comp212","gradeNUM": 66},
+                {"moduleName": "comp240","gradeNUM": 91}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 91851,
+            "STUDENTNAME": "Aahil",
+            "STUDENTSURNAME": "Slater",
+            "DATEOFBIRTH": "2001-12-11T00:00:00.000Z",
+            "STUDENTAGE": 21,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "6924-Hollow-Head",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp240","gradeNUM": 68},
+                {"moduleName": "comp101","gradeNUM": 87},
+                {"moduleName": "comp150","gradeNUM": 48}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 33259,
+            "STUDENTNAME": "Elaine",
+            "STUDENTSURNAME": "Everett",
+            "DATEOFBIRTH": "2002-12-03T00:00:00.000Z",
+            "STUDENTAGE": 20,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "2295-Ashdown-Square",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp233","gradeNUM": 68},
+                {"moduleName": "comp210","gradeNUM": 60},
+                {"moduleName": "comp150","gradeNUM": 63},
+                {"moduleName": "comp105","gradeNUM": 74}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 38560,
+            "STUDENTNAME": "Livia",
+            "STUDENTSURNAME": "Sparks",
+            "DATEOFBIRTH": "2002-12-03T00:00:00.000Z",
+            "STUDENTAGE": 19,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "9973-Royal-Brambles",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp201","gradeNUM": 42},
+                {"moduleName": "comp233","gradeNUM": 63},
+                {"moduleName": "comp105","gradeNUM": 66},
+                {"moduleName": "comp103","gradeNUM": 77}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 75648,
+            "STUDENTNAME": "Mustafa",
+            "STUDENTSURNAME": "Farley",
+            "DATEOFBIRTH": "2003-12-03T00:00:00.000Z",
+            "STUDENTAGE": 19,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "123-Carter-Court",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp284","gradeNUM": 71},
+                {"moduleName": "comp212","gradeNUM": 60},
+                {"moduleName": "comp105","gradeNUM": 62},
+                {"moduleName": "comp105","gradeNUM": 45}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 23944,
+            "STUDENTNAME": "Blanche",
+            "STUDENTSURNAME": "Kouma",
+            "DATEOFBIRTH": "1990-12-03T00:00:00.000Z",
+            "STUDENTAGE": 32,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "5421-OldForge-Bottom",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp210","gradeNUM": 96},
+                {"moduleName": "comp101","gradeNUM": 66},
+                {"moduleName": "comp150","gradeNUM": 47},
+                {"moduleName": "comp101","gradeNUM": 70}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 90986,
+            "STUDENTNAME": "Dhruv",
+            "STUDENTSURNAME": "Todd",
+            "DATEOFBIRTH": "1990-12-03T00:00:00.000Z",
+            "STUDENTAGE": 32,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "5798-Cowper-Courtyard",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp210","gradeNUM": 70},
+                {"moduleName": "comp105","gradeNUM": 84},
+                {"moduleName": "comp210","gradeNUM": 80},
+                {"moduleName": "comp105","gradeNUM": 98},
+                {"moduleName": "comp170","gradeNUM": 85}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 90537,
+            "STUDENTNAME": "Aubree",
+            "STUDENTSURNAME": "Mcarthur",
+            "DATEOFBIRTH": "1990-12-03T00:00:00.000Z",
+            "STUDENTAGE": 30,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "2150-Davenport-Fold",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp101","gradeNUM": 44},
+                {"moduleName": "comp212","gradeNUM": 49},
+                {"moduleName": "comp190","gradeNUM": 96},
+                {"moduleName": "comp150","gradeNUM": 45}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 21643,
+            "STUDENTNAME": "Zayna",
+            "STUDENTSURNAME": "Cooley",
+            "DATEOFBIRTH": "1992-12-03T00:00:00.000Z",
+            "STUDENTAGE": 30,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "5821-Shore-Reach",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp101","gradeNUM": 71},
+                {"moduleName": "comp105","gradeNUM": 47},
+                {"moduleName": "comp233","gradeNUM": 90}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 50086,
+            "STUDENTNAME": "Murat",
+            "STUDENTSURNAME": "Hood",
+            "DATEOFBIRTH": "1994-12-03T00:00:00.000Z",
+            "STUDENTAGE": 28,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "9240-Waterside-Dell",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp103","gradeNUM": 98},
+                {"moduleName": "comp240","gradeNUM": 56},
+                {"moduleName": "comp110","gradeNUM": 43}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 22272,
+            "STUDENTNAME": "Areeb",
+            "STUDENTSURNAME": "Plummer",
+            "DATEOFBIRTH": "1994-12-03T00:00:00.000Z",
+            "STUDENTAGE": 28,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "4549-Badgers-Fields",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp170","gradeNUM": 57},
+                {"moduleName": "comp105","gradeNUM": 42},
+                {"moduleName": "comp190","gradeNUM": 84},
+                {"moduleName": "comp101","gradeNUM": 55},
+                {"moduleName": "comp215","gradeNUM": 77}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 53679,
+            "STUDENTNAME": "Yvonne",
+            "STUDENTSURNAME": "Molina",
+            "DATEOFBIRTH": "1995-12-03T00:00:00.000Z",
+            "STUDENTAGE": 27,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "4894-Cambrian-Dene",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp190","gradeNUM": 43},
+                {"moduleName": "comp200","gradeNUM": 48},
+                {"moduleName": "comp233","gradeNUM": 66},
+                {"moduleName": "comp212","gradeNUM": 91},
+                {"moduleName": "comp110","gradeNUM": 96}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 55671,
+            "STUDENTNAME": "Niam",
+            "STUDENTSURNAME": "Porter",
+            "DATEOFBIRTH": "1995-12-03T00:00:00.000Z",
+            "STUDENTAGE": 27,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "1126-Seaview-Paddocks",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp216","gradeNUM": 96},
+                {"moduleName": "comp103","gradeNUM": 75},
+                {"moduleName": "comp200","gradeNUM": 98},
+                {"moduleName": "comp216","gradeNUM": 93},
+                {"moduleName": "comp103","gradeNUM": 52}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 84920,
+            "STUDENTNAME": "Celeste",
+            "STUDENTSURNAME": "Thomas",
+            "DATEOFBIRTH": "1995-12-03T00:00:00.000Z",
+            "STUDENTAGE": 27,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "7463-Anson-Meadow",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp200","gradeNUM": 78},
+                {"moduleName": "comp105","gradeNUM": 45},
+                {"moduleName": "comp216","gradeNUM": 56},
+                {"moduleName": "comp105","gradeNUM": 51},
+                {"moduleName": "comp216","gradeNUM": 61}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 5721,
+            "STUDENTNAME": "Ciaran",
+            "STUDENTSURNAME": "Tierney",
+            "DATEOFBIRTH": "1997-12-03T00:00:00.000Z",
+            "STUDENTAGE": 25,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "8474-Downham-Retreat",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp201","gradeNUM": 63},
+                {"moduleName": "comp103","gradeNUM": 40},
+                {"moduleName": "comp240","gradeNUM": 68},
+                {"moduleName": "comp105","gradeNUM": 94},
+                {"moduleName": "comp101","gradeNUM": 90}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 53370,
+            "STUDENTNAME": "Wallace",
+            "STUDENTSURNAME": "Mendez",
+            "DATEOFBIRTH": "1998-12-03T00:00:00.000Z",
+            "STUDENTAGE": 24,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "6547-Everest-Point",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp150","gradeNUM": 88},
+                {"moduleName": "comp216","gradeNUM": 88},
+                {"moduleName": "comp212","gradeNUM": 73}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 17445,
+            "STUDENTNAME": "Nansi",
+            "STUDENTSURNAME": "Newton",
+            "DATEOFBIRTH": "1998-12-03T00:00:00.000Z",
+            "STUDENTAGE": 24,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "5696-Kiln-Hall",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp233","gradeNUM": 66},
+                {"moduleName": "comp200","gradeNUM": 99},
+                {"moduleName": "comp201","gradeNUM": 44}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 1772,
+            "STUDENTNAME": "Harriett",
+            "STUDENTSURNAME": "Myers",
+            "DATEOFBIRTH": "1998-12-03T00:00:00.000Z",
+            "STUDENTAGE": 24,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "8503-Maitland-Ridgeway",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp200","gradeNUM": 88},
+                {"moduleName": "comp103","gradeNUM": 46},
+                {"moduleName": "comp201","gradeNUM": 45},
+                {"moduleName": "comp105","gradeNUM": 81}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 35538,
+            "STUDENTNAME": "Suman",
+            "STUDENTSURNAME": "Mora",
+            "DATEOFBIRTH": "1998-12-03T00:00:00.000Z",
+            "STUDENTAGE": 24,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "2879-Saunders-Covert",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp216","gradeNUM": 59},
+                {"moduleName": "comp101","gradeNUM": 99},
+                {"moduleName": "comp105","gradeNUM": 43},
+                {"moduleName": "comp170","gradeNUM": 40}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 69526,
+            "STUDENTNAME": "Bernadette",
+            "STUDENTSURNAME": "Mayo",
+            "DATEOFBIRTH": "1998-12-03T00:00:00.000Z",
+            "STUDENTAGE": 24,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "7705-Daffodil-Fold",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp210","gradeNUM": 45},
+                {"moduleName": "comp105","gradeNUM": 80},
+                {"moduleName": "comp210","gradeNUM": 85},
+                {"moduleName": "comp190","gradeNUM": 76},
+                {"moduleName": "comp201","gradeNUM": 59}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 98178,
+            "STUDENTNAME": "Hebe",
+            "STUDENTSURNAME": "Sears",
+            "DATEOFBIRTH": "1998-12-03T00:00:00.000Z",
+            "STUDENTAGE": 24,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "2040-Lockwood-Loke",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp103","gradeNUM": 98},
+                {"moduleName": "comp101","gradeNUM": 59},
+                {"moduleName": "comp201","gradeNUM": 70},
+                {"moduleName": "comp103","gradeNUM": 50},
+                {"moduleName": "comp190","gradeNUM": 85}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 7182,
+            "STUDENTNAME": "Thierry",
+            "STUDENTSURNAME": "Hamilton",
+            "DATEOFBIRTH": "1999-12-03T00:00:00.000Z",
+            "STUDENTAGE": 23,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "927-Allendale-Gait",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp170","gradeNUM": 80},
+                {"moduleName": "comp201","gradeNUM": 85},
+                {"moduleName": "comp101","gradeNUM": 55},
+                {"moduleName": "comp215","gradeNUM": 72},
+                {"moduleName": "comp170","gradeNUM": 82}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 91321,
+            "STUDENTNAME": "Georga",
+            "STUDENTSURNAME": "Whitworth",
+            "DATEOFBIRTH": "2000-12-03T00:00:00.000Z",
+            "STUDENTAGE": 22,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "9714-Malvern-Coppice",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp110","gradeNUM": 44},
+                {"moduleName": "comp105","gradeNUM": 49},
+                {"moduleName": "comp216","gradeNUM": 91},
+                {"moduleName": "comp233","gradeNUM": 79},
+                {"moduleName": "comp200","gradeNUM": 60}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 5594,
+            "STUDENTNAME": "Denzel",
+            "STUDENTSURNAME": "Eaton",
+            "DATEOFBIRTH": "2000-12-03T00:00:00.000Z",
+            "STUDENTAGE": 22,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "9826-Kennet-Las",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp201","gradeNUM": 98},
+                {"moduleName": "comp212","gradeNUM": 94},
+                {"moduleName": "comp215","gradeNUM": 64},
+                {"moduleName": "comp150","gradeNUM": 78},
+                {"moduleName": "comp190","gradeNUM": 78}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 16641,
+            "STUDENTNAME": "Pooja",
+            "STUDENTSURNAME": "Blackmore",
+            "DATEOFBIRTH": "2001-11-23T00:00:00.000Z",
+            "STUDENTAGE": 21,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "6599-Meadowsweet-Close",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp216","gradeNUM": 49},
+                {"moduleName": "comp190","gradeNUM": 85},
+                {"moduleName": "comp233","gradeNUM": 42}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 42382,
+            "STUDENTNAME": "Anton",
+            "STUDENTSURNAME": "Atkins",
+            "DATEOFBIRTH": "2002-12-03T00:00:00.000Z",
+            "STUDENTAGE": 20,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "5627-Cherry-Tree-Top",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp105","gradeNUM": 99},
+                {"moduleName": "comp210","gradeNUM": 67},
+                {"moduleName": "comp190","gradeNUM": 77}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 91872,
+            "STUDENTNAME": "Cole",
+            "STUDENTSURNAME": "Juarez",
+            "DATEOFBIRTH": "2002-12-03T00:00:00.000Z",
+            "STUDENTAGE": 20,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "4358-Ledbury-Beeches",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp233","gradeNUM": 88},
+                {"moduleName": "comp170","gradeNUM": 55},
+                {"moduleName": "comp110","gradeNUM": 48},
+                {"moduleName": "comp215","gradeNUM": 94}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 42197,
+            "STUDENTNAME": "Antonio",
+            "STUDENTSURNAME": "Garcia",
+            "DATEOFBIRTH": "2003-12-03T00:00:00.000Z",
+            "STUDENTAGE": 19,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "8922-Cleeve-Oaks",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp212","gradeNUM": 40},
+                {"moduleName": "comp212","gradeNUM": 87},
+                {"moduleName": "comp201","gradeNUM": 78},
+                {"moduleName": "comp103","gradeNUM": 73},
+                {"moduleName": "comp103","gradeNUM": 61}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 95053,
+            "STUDENTNAME": "Wilbur",
+            "STUDENTSURNAME": "Thomson",
+            "DATEOFBIRTH": "2003-12-03T00:00:00.000Z",
+            "STUDENTAGE": 19,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "7981-Mountbatten-Laurels",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp103","gradeNUM": 54},
+                {"moduleName": "comp215","gradeNUM": 47},
+                {"moduleName": "comp101","gradeNUM": 70},
+                {"moduleName": "comp212","gradeNUM": 42},
+                {"moduleName": "comp233","gradeNUM": 97}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 14849,
+            "STUDENTNAME": "Ira",
+            "STUDENTSURNAME": "Workman",
+            "DATEOFBIRTH": "2003-12-03T00:00:00.000Z",
+            "STUDENTAGE": 19,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "3815-Nairn-Mill",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp110","gradeNUM": 95},
+                {"moduleName": "comp215","gradeNUM": 65},
+                {"moduleName": "comp101","gradeNUM": 41}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 58451,
+            "STUDENTNAME": "Anja",
+            "STUDENTSURNAME": "Peel",
+            "DATEOFBIRTH": "1990-12-03T00:00:00.000Z",
+            "STUDENTAGE": 32,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "9929-Rothesay-Boulevard",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp215","gradeNUM": 89},
+                {"moduleName": "comp310","gradeNUM": 50},
+                {"moduleName": "comp284","gradeNUM": 76}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 55125,
+            "STUDENTNAME": "Cadi",
+            "STUDENTSURNAME": "Whiteley",
+            "DATEOFBIRTH": "1990-12-03T00:00:00.000Z",
+            "STUDENTAGE": 32,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "1143-West-View-Banks",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp410","gradeNUM": 49},
+                {"moduleName": "comp240","gradeNUM": 87},
+                {"moduleName": "comp410","gradeNUM": 69}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 1800,
+            "STUDENTNAME": "Ayesha",
+            "STUDENTSURNAME": "Cummings",
+            "DATEOFBIRTH": "1990-12-03T00:00:00.000Z",
+            "STUDENTAGE": 32,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "2181-Manse-Way",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp300","gradeNUM": 83},
+                {"moduleName": "comp410","gradeNUM": 94},
+                {"moduleName": "comp341","gradeNUM": 74},
+                {"moduleName": "comp300","gradeNUM": 62},
+                {"moduleName": "comp390","gradeNUM": 63}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 7642,
+            "STUDENTNAME": "Bree",
+            "STUDENTSURNAME": "Leonard",
+            "DATEOFBIRTH": "1990-12-03T00:00:00.000Z",
+            "STUDENTAGE": 32,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "1518-Wick-Firs",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp303","gradeNUM": 97},
+                {"moduleName": "comp341","gradeNUM": 42},
+                {"moduleName": "comp303","gradeNUM": 74}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 2085,
+            "STUDENTNAME": "Elsie-Mae",
+            "STUDENTSURNAME": "Gunn",
+            "DATEOFBIRTH": "1990-12-03T00:00:00.000Z",
+            "STUDENTAGE": 32,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "6432-Caernarvon-Down",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp216","gradeNUM": 62},
+                {"moduleName": "comp240","gradeNUM": 58},
+                {"moduleName": "comp311","gradeNUM": 40}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 12561,
+            "STUDENTNAME": "Elisa",
+            "STUDENTSURNAME": "Moore",
+            "DATEOFBIRTH": "1992-12-03T00:00:00.000Z",
+            "STUDENTAGE": 30,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "1512-Ventnor-Alley",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp240","gradeNUM": 88},
+                {"moduleName": "comp305","gradeNUM": 57},
+                {"moduleName": "comp370","gradeNUM": 81},
+                {"moduleName": "comp390","gradeNUM": 47},
+                {"moduleName": "comp412","gradeNUM": 63}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 65211,
+            "STUDENTNAME": "Romana",
+            "STUDENTSURNAME": "Haas",
+            "DATEOFBIRTH": "1992-12-03T00:00:00.000Z",
+            "STUDENTAGE": 30,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "8286-Dolphin-Buildings",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp310","gradeNUM": 47},
+                {"moduleName": "comp233","gradeNUM": 81},
+                {"moduleName": "comp412","gradeNUM": 89}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 86135,
+            "STUDENTNAME": "Amari",
+            "STUDENTSURNAME": "Head",
+            "DATEOFBIRTH": "1992-12-03T00:00:00.000Z",
+            "STUDENTAGE": 30,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "7235-Greenhill-Valley",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp350","gradeNUM": 72},
+                {"moduleName": "comp216","gradeNUM": 62},
+                {"moduleName": "comp310","gradeNUM": 84},
+                {"moduleName": "comp370","gradeNUM": 73},
+                {"moduleName": "comp401","gradeNUM": 67}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 99824,
+            "STUDENTNAME": "Ted",
+            "STUDENTSURNAME": "Dunlop",
+            "DATEOFBIRTH": "1993-12-03T00:00:00.000Z",
+            "STUDENTAGE": 29,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "2324-Halifax-Mill",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp412","gradeNUM": 71},
+                {"moduleName": "comp215","gradeNUM": 75},
+                {"moduleName": "comp350","gradeNUM": 48}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 8079,
+            "STUDENTNAME": "Jayden",
+            "STUDENTSURNAME": "Bone",
+            "DATEOFBIRTH": "1993-12-03T00:00:00.000Z",
+            "STUDENTAGE": 29,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "7797-Normandy-Circle",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp303","gradeNUM": 75},
+                {"moduleName": "comp233","gradeNUM": 72},
+                {"moduleName": "comp350","gradeNUM": 63},
+                {"moduleName": "comp341","gradeNUM": 50},
+                {"moduleName": "comp412","gradeNUM": 59}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 69354,
+            "STUDENTNAME": "Jolie",
+            "STUDENTSURNAME": "Bull",
+            "DATEOFBIRTH": "1994-12-03T00:00:00.000Z",
+            "STUDENTAGE": 28,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "5697-Whalley-Fold",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp311","gradeNUM": 60},
+                {"moduleName": "comp284","gradeNUM": 62},
+                {"moduleName": "comp305","gradeNUM": 84},
+                {"moduleName": "comp410","gradeNUM": 53},
+                {"moduleName": "comp410","gradeNUM": 43}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 57477,
+            "STUDENTNAME": "Prince",
+            "STUDENTSURNAME": "Maguire",
+            "DATEOFBIRTH": "1995-12-03T00:00:00.000Z",
+            "STUDENTAGE": 27,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "1782-Falkland-Ridings",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp400","gradeNUM": 79},
+                {"moduleName": "comp240","gradeNUM": 94},
+                {"moduleName": "comp240","gradeNUM": 57}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 70850,
+            "STUDENTNAME": "Eric",
+            "STUDENTSURNAME": "Joyce",
+            "DATEOFBIRTH": "1995-12-03T00:00:00.000Z",
+            "STUDENTAGE": 27,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "4493-Newnham-Dale",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp305","gradeNUM": 60},
+                {"moduleName": "comp341","gradeNUM": 62},
+                {"moduleName": "comp305","gradeNUM": 58},
+                {"moduleName": "comp341","gradeNUM": 93}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 21281,
+            "STUDENTNAME": "Ishan",
+            "STUDENTSURNAME": "Vang",
+            "DATEOFBIRTH": "1996-12-03T00:00:00.000Z",
+            "STUDENTAGE": 26,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "1533-Heather-Links",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp233","gradeNUM": 92},
+                {"moduleName": "comp401","gradeNUM": 70},
+                {"moduleName": "comp410","gradeNUM": 75},
+                {"moduleName": "comp233","gradeNUM": 45},
+                {"moduleName": "comp310","gradeNUM": 78}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 71341,
+            "STUDENTNAME": "Kien",
+            "STUDENTSURNAME": "Rojas",
+            "DATEOFBIRTH": "1996-12-03T00:00:00.000Z",
+            "STUDENTAGE": 26,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "7251-Sheridan-Barton",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp240","gradeNUM": 73},
+                {"moduleName": "comp300","gradeNUM": 49},
+                {"moduleName": "comp305","gradeNUM": 66},
+                {"moduleName": "comp305","gradeNUM": 40},
+                {"moduleName": "comp310","gradeNUM": 52}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 44702,
+            "STUDENTNAME": "Declan",
+            "STUDENTSURNAME": "Delarosa",
+            "DATEOFBIRTH": "1996-12-03T00:00:00.000Z",
+            "STUDENTAGE": 26,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "2820-Ferndale-Downs",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp305","gradeNUM": 72},
+                {"moduleName": "comp303","gradeNUM": 54},
+                {"moduleName": "comp341","gradeNUM": 76},
+                {"moduleName": "comp300","gradeNUM": 45}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 18271,
+            "STUDENTNAME": "Tracey",
+            "STUDENTSURNAME": "Yoder",
+            "DATEOFBIRTH": "1997-12-03T00:00:00.000Z",
+            "STUDENTAGE": 25,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "9496-Bryn-Meadows",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp216","gradeNUM": 98},
+                {"moduleName": "comp240","gradeNUM": 41},
+                {"moduleName": "comp341","gradeNUM": 63},
+                {"moduleName": "comp240","gradeNUM": 91}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 62102,
+            "STUDENTNAME": "Isra",
+            "STUDENTSURNAME": "Woolley",
+            "DATEOFBIRTH": "1998-12-03T00:00:00.000Z",
+            "STUDENTAGE": 24,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "3401-Albion-Cedars",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp341","gradeNUM": 70},
+                {"moduleName": "comp284","gradeNUM": 56},
+                {"moduleName": "comp215","gradeNUM": 95},
+                {"moduleName": "comp216","gradeNUM": 83}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 7565,
+            "STUDENTNAME": "Billie",
+            "STUDENTSURNAME": "Boone",
+            "DATEOFBIRTH": "1999-12-03T00:00:00.000Z",
+            "STUDENTAGE": 23,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "6663-Chaffinch-Bank",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp400","gradeNUM": 88},
+                {"moduleName": "comp412","gradeNUM": 88},
+                {"moduleName": "comp341","gradeNUM": 77}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 64809,
+            "STUDENTNAME": "Cieran",
+            "STUDENTSURNAME": "Connelly",
+            "DATEOFBIRTH": "2000-12-03T00:00:00.000Z",
+            "STUDENTAGE": 22,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "3366-Lee-Drove",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp300","gradeNUM": 88},
+                {"moduleName": "comp401","gradeNUM": 80},
+                {"moduleName": "comp410","gradeNUM": 52},
+                {"moduleName": "comp233","gradeNUM": 93},
+                {"moduleName": "comp412","gradeNUM": 56}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 55313,
+            "STUDENTNAME": "Roza",
+            "STUDENTSURNAME": "Griffin",
+            "DATEOFBIRTH": "2001-01-07T00:00:00.000Z",
+            "STUDENTAGE": 21,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "710-Glenburn-Grange",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp350","gradeNUM": 52},
+                {"moduleName": "comp303","gradeNUM": 91},
+                {"moduleName": "comp215","gradeNUM": 51},
+                {"moduleName": "comp215","gradeNUM": 55}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 31180,
+            "STUDENTNAME": "Amelia-Rose",
+            "STUDENTSURNAME": "Espinoza",
+            "DATEOFBIRTH": "2001-02-16T00:00:00.000Z",
+            "STUDENTAGE": 21,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "7793-Gray-Ridings",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp284","gradeNUM": 77},
+                {"moduleName": "comp284","gradeNUM": 63},
+                {"moduleName": "comp215","gradeNUM": 49},
+                {"moduleName": "comp390","gradeNUM": 92}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 57183,
+            "STUDENTNAME": "Wren",
+            "STUDENTSURNAME": "Phillips",
+            "DATEOFBIRTH": "2001-02-21T00:00:00.000Z",
+            "STUDENTAGE": 21,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "7276-Salcombe-Promenade",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp310","gradeNUM": 40},
+                {"moduleName": "comp410","gradeNUM": 98},
+                {"moduleName": "comp305","gradeNUM": 65},
+                {"moduleName": "comp370","gradeNUM": 95},
+                {"moduleName": "comp390","gradeNUM": 91}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 36371,
+            "STUDENTNAME": "Bushra",
+            "STUDENTSURNAME": "Cottrell",
+            "DATEOFBIRTH": "2003-12-03T00:00:00.000Z",
+            "STUDENTAGE": 19,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "2888-Lewis-Quay",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp303","gradeNUM": 75},
+                {"moduleName": "comp233","gradeNUM": 54},
+                {"moduleName": "comp240","gradeNUM": 64},
+                {"moduleName": "comp216","gradeNUM": 67},
+                {"moduleName": "comp215","gradeNUM": 68}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 32098,
+            "STUDENTNAME": "Adelina",
+            "STUDENTSURNAME": "Macfarlane",
+            "DATEOFBIRTH": "2003-12-03T00:00:00.000Z",
+            "STUDENTAGE": 19,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "7355-Silver-Birch-Acres",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp400","gradeNUM": 46},
+                {"moduleName": "comp390","gradeNUM": 46},
+                {"moduleName": "comp310","gradeNUM": 65}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 7781,
+            "STUDENTNAME": "Destiny",
+            "STUDENTSURNAME": "Johnston",
+            "DATEOFBIRTH": "1990-12-03T00:00:00.000Z",
+            "STUDENTAGE": 32,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "8814-Rookery-Moor",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp400","gradeNUM": 47},
+                {"moduleName": "comp501","gradeNUM": 40},
+                {"moduleName": "comp415","gradeNUM": 67},
+                {"moduleName": "comp484","gradeNUM": 61}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 24114,
+            "STUDENTNAME": "Dani",
+            "STUDENTSURNAME": "Mcneill",
+            "DATEOFBIRTH": "1990-12-03T00:00:00.000Z",
+            "STUDENTAGE": 32,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "1665-Falcon-Garth",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp405","gradeNUM": 88},
+                {"moduleName": "comp501","gradeNUM": 68},
+                {"moduleName": "comp400","gradeNUM": 67},
+                {"moduleName": "comp415","gradeNUM": 64}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 53701,
+            "STUDENTNAME": "T-Jay",
+            "STUDENTSURNAME": "Gaines",
+            "DATEOFBIRTH": "1991-12-03T00:00:00.000Z",
+            "STUDENTAGE": 31,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "979-Halton-Crescent",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp441","gradeNUM": 89},
+                {"moduleName": "comp490","gradeNUM": 77},
+                {"moduleName": "comp470","gradeNUM": 73},
+                {"moduleName": "comp440","gradeNUM": 41}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 86444,
+            "STUDENTNAME": "Harvey-Lee",
+            "STUDENTSURNAME": "Broadhurst",
+            "DATEOFBIRTH": "1991-12-03T00:00:00.000Z",
+            "STUDENTAGE": 31,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "5608-Exchange-Parade",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp403","gradeNUM": 63},
+                {"moduleName": "comp501","gradeNUM": 61},
+                {"moduleName": "comp484","gradeNUM": 92}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 67478,
+            "STUDENTNAME": "Nel",
+            "STUDENTSURNAME": "Haley",
+            "DATEOFBIRTH": "1991-12-03T00:00:00.000Z",
+            "STUDENTAGE": 31,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "4711-Houghton-Village",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp470","gradeNUM": 54},
+                {"moduleName": "comp440","gradeNUM": 91},
+                {"moduleName": "comp433","gradeNUM": 40},
+                {"moduleName": "comp450","gradeNUM": 69}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 92374,
+            "STUDENTNAME": "Marcel",
+            "STUDENTSURNAME": "Simmons",
+            "DATEOFBIRTH": "1992-12-03T00:00:00.000Z",
+            "STUDENTAGE": 30,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "2105-Waterford-Park",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp410","gradeNUM": 95},
+                {"moduleName": "comp416","gradeNUM": 88},
+                {"moduleName": "comp484","gradeNUM": 82},
+                {"moduleName": "comp440","gradeNUM": 55}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 93112,
+            "STUDENTNAME": "Anabella",
+            "STUDENTSURNAME": "Akhtar",
+            "DATEOFBIRTH": "1993-12-03T00:00:00.000Z",
+            "STUDENTAGE": 29,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "577-Chestnut-Circus",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp484","gradeNUM": 92},
+                {"moduleName": "comp415","gradeNUM": 80},
+                {"moduleName": "comp470","gradeNUM": 53}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 10431,
+            "STUDENTNAME": "Ayse",
+            "STUDENTSURNAME": "Sullivan",
+            "DATEOFBIRTH": "1994-12-03T00:00:00.000Z",
+            "STUDENTAGE": 28,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "9185-Paxton-Spur",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp510","gradeNUM": 98},
+                {"moduleName": "comp410","gradeNUM": 80},
+                {"moduleName": "comp412","gradeNUM": 83},
+                {"moduleName": "comp510","gradeNUM": 51},
+                {"moduleName": "comp415","gradeNUM": 90}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 8973,
+            "STUDENTNAME": "Callan",
+            "STUDENTSURNAME": "May",
+            "DATEOFBIRTH": "1994-12-03T00:00:00.000Z",
+            "STUDENTAGE": 28,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "5634-Greenwood-Parkway",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp412","gradeNUM": 97},
+                {"moduleName": "comp405","gradeNUM": 65},
+                {"moduleName": "comp500","gradeNUM": 65},
+                {"moduleName": "comp500","gradeNUM": 66},
+                {"moduleName": "comp411","gradeNUM": 79}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 20308,
+            "STUDENTNAME": "Josh",
+            "STUDENTSURNAME": "Shields",
+            "DATEOFBIRTH": "1995-12-03T00:00:00.000Z",
+            "STUDENTAGE": 27,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "7843-Stanford-Broadway",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp411","gradeNUM": 93},
+                {"moduleName": "comp470","gradeNUM": 43},
+                {"moduleName": "comp411","gradeNUM": 93},
+                {"moduleName": "comp500","gradeNUM": 98},
+                {"moduleName": "comp416","gradeNUM": 64}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 63341,
+            "STUDENTNAME": "Jett",
+            "STUDENTSURNAME": "Wang",
+            "DATEOFBIRTH": "1995-12-03T00:00:00.000Z",
+            "STUDENTAGE": 27,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "6075-Cameron-Gardens",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp440","gradeNUM": 49},
+                {"moduleName": "comp484","gradeNUM": 62},
+                {"moduleName": "comp403","gradeNUM": 49},
+                {"moduleName": "comp490","gradeNUM": 44}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 23092,
+            "STUDENTNAME": "Ishika",
+            "STUDENTSURNAME": "Miranda",
+            "DATEOFBIRTH": "1996-12-03T00:00:00.000Z",
+            "STUDENTAGE": 26,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "7097-Maxwell-Villas",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp441","gradeNUM": 46},
+                {"moduleName": "comp412","gradeNUM": 83},
+                {"moduleName": "comp510","gradeNUM": 98},
+                {"moduleName": "comp410","gradeNUM": 50}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 79420,
+            "STUDENTNAME": "Jayden-James",
+            "STUDENTSURNAME": "Richmond",
+            "DATEOFBIRTH": "1997-12-03T00:00:00.000Z",
+            "STUDENTAGE": 25,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "8560-French-Circle",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp501","gradeNUM": 80},
+                {"moduleName": "comp470","gradeNUM": 58},
+                {"moduleName": "comp450","gradeNUM": 97}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 33577,
+            "STUDENTNAME": "Angharad",
+            "STUDENTSURNAME": "Nieves",
+            "DATEOFBIRTH": "1998-12-03T00:00:00.000Z",
+            "STUDENTAGE": 24,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "6184-Aintree-Rowans",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp411","gradeNUM": 40},
+                {"moduleName": "comp403","gradeNUM": 97},
+                {"moduleName": "comp400","gradeNUM": 41}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 93051,
+            "STUDENTNAME": "Frida",
+            "STUDENTSURNAME": "Colley",
+            "DATEOFBIRTH": "1998-12-03T00:00:00.000Z",
+            "STUDENTAGE": 24,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "5020-Preston-Leas",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp405","gradeNUM": 40},
+                {"moduleName": "comp484","gradeNUM": 86},
+                {"moduleName": "comp410","gradeNUM": 95}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 67692,
+            "STUDENTNAME": "Margot",
+            "STUDENTSURNAME": "Salas",
+            "DATEOFBIRTH": "1999-12-03T00:00:00.000Z",
+            "STUDENTAGE": 23,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "6703-Montague-Woodlands",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp590","gradeNUM": 89},
+                {"moduleName": "comp603","gradeNUM": 43},
+                {"moduleName": "comp603","gradeNUM": 94},
+                {"moduleName": "comp533","gradeNUM": 75}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 37126,
+            "STUDENTNAME": "Shawn",
+            "STUDENTSURNAME": "Mccann",
+            "DATEOFBIRTH": "2000-12-03T00:00:00.000Z",
+            "STUDENTAGE": 22,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "2820-Kings-Lodge",
+            "STUDENTGENDER": "Female",
+            "MODULES": [
+                {"moduleName": "comp611","gradeNUM": 85},
+                {"moduleName": "comp700","gradeNUM": 98},
+                {"moduleName": "comp584","gradeNUM": 88},
+                {"moduleName": "comp540","gradeNUM": 54}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 20547,
+            "STUDENTNAME": "Christina",
+            "STUDENTSURNAME": "Lyon",
+            "DATEOFBIRTH": "2001-07-15T00:00:00.000Z",
+            "STUDENTAGE": 21,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "848-OldMill-Fairway",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp601","gradeNUM": 57},
+                {"moduleName": "comp641","gradeNUM": 53},
+                {"moduleName": "comp609","gradeNUM": 43},
+                {"moduleName": "comp641","gradeNUM": 97}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 23180,
+            "STUDENTNAME": "Gwen",
+            "STUDENTSURNAME": "Macgregor",
+            "DATEOFBIRTH": "2001-12-20T00:00:00.000Z",
+            "STUDENTAGE": 21,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "8175-Perth-Side",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp616","gradeNUM": 82},
+                {"moduleName": "comp610","gradeNUM": 56},
+                {"moduleName": "comp584","gradeNUM": 91},
+                {"moduleName": "comp600","gradeNUM": 93}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 94923,
+            "STUDENTNAME": "Aniela",
+            "STUDENTSURNAME": "Jacobs",
+            "DATEOFBIRTH": "2002-12-03T00:00:00.000Z",
+            "STUDENTAGE": 20,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "3524-Gardeners-Moorings",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp700","gradeNUM": 70},
+                {"moduleName": "comp600","gradeNUM": 56},
+                {"moduleName": "comp615","gradeNUM": 81},
+                {"moduleName": "comp570","gradeNUM": 89}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 95636,
+            "STUDENTNAME": "Yasmine",
+            "STUDENTSURNAME": "Guthrie",
+            "DATEOFBIRTH": "2002-12-03T00:00:00.000Z",
+            "STUDENTAGE": 20,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "2291-Sussex-Cottages",
+            "STUDENTGENDER": "Other",
+            "MODULES": [
+                {"moduleName": "comp512","gradeNUM": 61},
+                {"moduleName": "comp512","gradeNUM": 41},
+                {"moduleName": "comp611","gradeNUM": 59}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 71236,
+            "STUDENTNAME": "Neo",
+            "STUDENTSURNAME": "Estrada",
+            "DATEOFBIRTH": "2002-12-03T00:00:00.000Z",
+            "STUDENTAGE": 20,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "2694-Archer-Approach",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp641","gradeNUM": 97},
+                {"moduleName": "comp641","gradeNUM": 95},
+                {"moduleName": "comp550","gradeNUM": 58},
+                {"moduleName": "comp540","gradeNUM": 83}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 36731,
+            "STUDENTNAME": "Usamah",
+            "STUDENTSURNAME": "Jensen",
+            "DATEOFBIRTH": "2003-12-03T00:00:00.000Z",
+            "STUDENTAGE": 19,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "6851-Clumber-Meadows",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp609","gradeNUM": 78},
+                {"moduleName": "comp609","gradeNUM": 54},
+                {"moduleName": "comp540","gradeNUM": 75}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 62460,
+            "STUDENTNAME": "Esha",
+            "STUDENTSURNAME": "Riggs",
+            "DATEOFBIRTH": "2003-12-03T00:00:00.000Z",
+            "STUDENTAGE": 19,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "8835-Hampton-Heath",
+            "STUDENTGENDER": "Male",
+            "MODULES": [
+                {"moduleName": "comp601","gradeNUM": 71},
+                {"moduleName": "comp616","gradeNUM": 98},
+                {"moduleName": "comp533","gradeNUM": 66},
+                {"moduleName": "comp616","gradeNUM": 96}
+            ]
+        },
+        {
+            "STUDENTNUMBER": 45720,
+            "STUDENTNAME": "Earl",
+            "STUDENTSURNAME": "Clarkson",
+            "DATEOFBIRTH": "2003-12-03T00:00:00.000Z",
+            "STUDENTAGE": 19,
+            "MOBILENUMBER": "+1-234-567-890",
+            "STUDENTADDRESS": "1982-Thorne-Dale",
+            "STUDENTGENDER": "Non-Binary",
+            "MODULES": [
+                {"moduleName": "comp603","gradeNUM": 40},
+                {"moduleName": "comp512","gradeNUM": 74},
+                {"moduleName": "comp609","gradeNUM": 40}
+            ]
+        }
+    ]
+}
