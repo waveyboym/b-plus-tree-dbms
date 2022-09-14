@@ -7,7 +7,7 @@ home page
 search page
 ![home page](presentation-img/search.png "search page")
 
-#steps to run this application
+# steps to run this application
 
 1.  Download the project files.
 2.  Download IntelliJ from here: https://www.jetbrains.com/idea/download/?source=google&medium=cpc&campaign=9736964638&term=intellij&gclid=Cj0KCQjw94WZBhDtARIsAKxWG-8VaCtrTKUAL_6Ja3_7vDQu2YRCuJF8UTm7Or6MWGZCLCfgPvZiF1QaAqL8EALw_wcB#section=windows
