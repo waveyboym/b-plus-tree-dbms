@@ -20,10 +20,10 @@ search page
 9. Click on the libraries section.
 10. There should be one library already there labelled as "json-simple-1.1.1". If there isn't one then you will have to download it and add it manually.
     Steps to add the library manually: 
-      - If you don't have the json-simple library, download it from here:
-      -Locate the path of the file and add it as a library by going back to intellij->file->project structure->libraries, then at the top you should see a plus button          which will allow you to add libraries. Click on it. 
-      -Click Java from the options that are presented to you.
-      -Locate the path of the library then when you find it click on it (should be labelled as "<library-name>.jar") then click ok then apply.
+      - If you don't have the json-simple library, download it from here: https://jar-download.com/artifacts/com.googlecode.json-simple/json-simple/1.1.1/source-code
+      - Locate the path of the file and add it as a library by going back to intellij->file->project structure->libraries, then at the top you should see a plus button          which will allow you to add libraries. Click on it. 
+      - Click Java from the options that are presented to you.
+      - Locate the path of the library then when you find it click on it (should be labelled as "<library-name>.jar") then click ok then apply.
 11. You may close the project structure window and your changes will be shown in the projects area labeled as 'External Libraries'.
 12. To add JavaFx, steps similar to 10 will be taken again.
 13. Click on file->project structure->libraries.
